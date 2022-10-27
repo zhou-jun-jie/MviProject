@@ -1,4 +1,4 @@
-package com.maxvision.mviproject
+package com.zjj.mviproject
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

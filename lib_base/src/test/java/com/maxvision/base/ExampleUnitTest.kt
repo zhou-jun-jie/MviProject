@@ -1,4 +1,4 @@
-package com.zjj.mviproject
+package com.maxvision.base
 
 import org.junit.Test
 

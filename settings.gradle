@@ -3,6 +3,9 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
+        maven {
+            url "https://repo.eclipse.org/content/repositories/paho-snapshots/"
+        }
     }
 }
 dependencyResolutionManagement {
@@ -15,3 +18,4 @@ dependencyResolutionManagement {
 rootProject.name = "MviProject"
 include ':app'
 include ':lib_mqtt'
+include ':lib_base'
