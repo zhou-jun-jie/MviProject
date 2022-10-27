@@ -1,4 +1,4 @@
-package com.maxvision.base
+package com.zjj.base
 
 import org.junit.Test
 
